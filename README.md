@@ -1,6 +1,5 @@
 # 🐙 GitHub Explorer
 
-GitHub istifadəçilərinin profil və repolarını araşdırmaq üçün React + TypeScript + Tailwind CSS + TanStack Query ilə yazılmış veb tətbiq.
 
 ## Technologies
 
